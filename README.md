@@ -29,12 +29,12 @@
 
 2)Install dependencies:
   cd medirecord
-  npm install
+  
 
 ## Usage
 
 1)Start the application:
-  npm start
+  
 
 2)Access the application in your web browser at http://localhost:3000.
 
